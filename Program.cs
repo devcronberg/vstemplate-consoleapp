@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace $safeprojectname$
 {
@@ -7,8 +7,11 @@ namespace $safeprojectname$
         static void Main(string[] args)
         {
 
+            
+            // Your code here.....
 
-
+            
+            
 
             // Keep console window open when using the debugger (F5)
             if (System.Diagnostics.Debugger.IsAttached) {
