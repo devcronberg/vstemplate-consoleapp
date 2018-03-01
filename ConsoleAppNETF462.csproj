@@ -54,6 +54,9 @@
     <ItemGroup>
     <Content Include="ReadMe\shortcuts.txt" />
   </ItemGroup>
+     <ItemGroup>
+    <Content Include="ReadMe\formatcodes.txt" />
+  </ItemGroup>
 
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

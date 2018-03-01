@@ -22,6 +22,8 @@
       </Folder>
       <Folder Name="ReadMe" TargetFolderName="ReadMe">
         <ProjectItem ReplaceParameters="true" TargetFileName="snippets.txt">snippets.txt</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="shortcuts.txt">shortcuts.txt</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="formatcodes.txt">formatcodes.txt</ProjectItem>
       </Folder>
 
     </Project>
