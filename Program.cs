@@ -1,4 +1,5 @@
 using System;
+using Teknologisk;
 
 namespace $safeprojectname$
 {
